@@ -1,2 +1,2 @@
 # Web Stores + 
-Um agregador de lojas web com pesquisa global integrada.
+Um agregador de lojas web para Android com pesquisa global integrada.
