@@ -1,2 +1,2 @@
 # Web Stores + 
-Um agregador de lojas web para Android com pesquisa global integrada feito do Kodular.
+Um agregador de lojas web para Android com pesquisa global integrada feito no Kodular.
